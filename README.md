@@ -1,3 +1,9 @@
+# Open To Work
+
+- Full Time
+- Part Time
+- Contract
+
 ## Intro
 
 - I am a highly skilled Machine Learning Engineer with over 5 years of experience in building Python applications.
