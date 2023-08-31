@@ -9,21 +9,10 @@
 
 ## Open Source Commits
 
-- <a href="https://github.com/Agenta-AI/agenta" target="_blank">
-    <h4>Agenta - Evaluate your LLM Models</h4>
-  </a>
-
-* <a href="https://github.com/Pointcept/SegmentAnything3D" target="_blank">
-    <h4>SegmentAnything3D</h4>
-  </a>
-
-* <a href="https://github.com/astra-vision/MonoScene" target="_blank">
-    <h4>MonoScene</h4>
-  </a>
-
-* <a href="https://github.com/m-bain/whisperX" target="_blank">
-    <h4>WhisperX - Automatic Speech Recogination</h4>
-  </a>
+- [Agenta - Evaluate your LLM Models](https://github.com/Agenta-AI/agenta)
+- [SegmentAnything3D - 3D Segmentation](https://github.com/Pointcept/SegmentAnything3D)
+- [MonoScene - 3D Reconstruction](https://github.com/astra-vision/MonoScene)
+- [WhisperX - Automatic Speech Recogination](https://github.com/m-bain/whisperX)
 
 ## My Skills
 
