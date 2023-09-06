@@ -20,6 +20,11 @@
 - [MonoScene - 3D Reconstruction](https://github.com/astra-vision/MonoScene)
 - [WhisperX - Automatic Speech Recogination](https://github.com/m-bain/whisperX)
 
+## My Python Packages/Modules
+
+
+- [BoundingBox-Merger](https://pypi.org/project/bbox-merger/)
+
 ## My Skills
 
 ### Master In
