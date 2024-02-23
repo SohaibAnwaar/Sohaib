@@ -19,6 +19,7 @@
 - [SegmentAnything3D - 3D Segmentation](https://github.com/Pointcept/SegmentAnything3D)
 - [MonoScene - 3D Reconstruction](https://github.com/astra-vision/MonoScene)
 - [WhisperX - Automatic Speech Recogination](https://github.com/m-bain/whisperX)
+- [Naas.ai - Data Engineering Product Using LLMS](https://github.com/jupyter-naas/awesome-notebooks) 
 
 ## My Python Packages/Modules
 
