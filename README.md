@@ -86,6 +86,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibanwaar&hide_progress=true)
 
-## Contact me At
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sohaib-anwaar-4b7ba1187/)
