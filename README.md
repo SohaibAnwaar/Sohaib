@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=Python+%7C+Artifical+Intelligence+%7C+langchain" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=LangChain+%7C+LLM+%7C+Python" alt="Typing SVG" /></a>
 
 - Full Time
 - Part Time
