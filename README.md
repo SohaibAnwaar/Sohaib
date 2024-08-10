@@ -80,10 +80,10 @@
 
 ## Github Stats
 
-![Sohaib Anwaar GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibanwaar&show_icons=true&theme=transparent)
+![Sohaib Anwaar GitHub stats](https://github-readme-stats.vercel.app/api?username=VisionOra&show_icons=true&theme=transparent)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibanwaar&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisionOra&hide_progress=true)
 
 
