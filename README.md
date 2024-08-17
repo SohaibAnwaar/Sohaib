@@ -1,17 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=06C996&background=FF331B00&center=true&vCenter=true&multiline=true&random=true&width=1500&height=100&lines=LangChain+%7C+LLM+%7C+Python" alt="Typing SVG" /></a>
 
-- Full Time
-- Part Time
-- Contract
-
 ## Intro
 
-- I am a highly skilled Machine Learning Engineer with over 5 years of experience in building Python applications.
-- I have a strong understanding of machine learning concepts and algorithms, as well as experience with Python libraries such as NumPy, SciPy, and TensorFlow.
-- I am proficient in data cleaning, preprocessing, and feature engineering.
-- I have experience in building and deploying machine learning models in production.
-- I am a team player and have excellent communication and problem-solving skills.
-- I am passionate about using machine learning to solve real-world problem
+I’m a Machine Learning Engineer with 8+ years of experience in Python application development. My expertise spans machine learning algorithms, and I’m skilled with libraries like LangChain, SciPy, and TensorFlow.
+
+I excel in data cleaning, preprocessing, and feature engineering, and have a proven track record of building and deploying machine learning models in production. As a team player with strong communication and problem-solving skills, I’m passionate about leveraging machine learning to tackle real-world challenges.
+
+Feel free to check out my projects and connect if you’d like to collaborate!
+
+
 
 ## Open Source Commits
 
